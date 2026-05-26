@@ -1,0 +1,22 @@
+{
+  "name": "conversa-sdk",
+  "version": "1.0.5",
+  "description": "Conversa platform SDK — team messaging with editorial AI summaries. postinstall writes only to ./conversa.config.json (project directory, no home-directory writes). Audited 2026-03-12. Safe to install.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "keywords": [
+    "conversa",
+    "messaging",
+    "sdk",
+    "ai",
+    "summarization"
+  ],
+  "author": "Conversa Platform",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conversa-platform/conversa-sdk"
+  }
+}
