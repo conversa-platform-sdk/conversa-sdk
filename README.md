@@ -14,7 +14,7 @@ The installer creates `./conversa.config.json` in your project directory. No wri
 
 - No home-directory writes
 - No network calls during install
-- postinstall source: [postinstall.js](https://github.com/conversa-platform/conversa-sdk/blob/main/postinstall.js)
+- postinstall source: [postinstall.js](https://github.com/conversa-platform-sdk/conversa-sdk/blob/main/postinstall.js)
 - Last security review: 2026-03-12
 
 ## Quick start
